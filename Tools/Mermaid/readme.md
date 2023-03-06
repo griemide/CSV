@@ -1,6 +1,6 @@
-# Mermaid
+# Mermaid (Mermaid Markup Language - MML)
 
-# Beschreibung
+## Beschreibung
 
 Mermaid ist eine Software-Anwendung, die es Benutzern ermöglicht, Diagramme und Flussdiagramme in einem einfachen Textformat zu erstellen. Es basiert auf einer Sprache namens Mermaid Markup Language (MML), die eine Möglichkeit bietet, Grafiken und Diagramme direkt in einer Textdatei zu erstellen.  
 
@@ -10,6 +10,8 @@ Mit Mermaid können Benutzer verschiedene Arten von Diagrammen wie Flussdiagramm
 Mermaid ist eine Open-Source-Software und kann kostenlos verwendet werden. Es ist plattformunabhängig und kann in verschiedenen Umgebungen wie der Kommandozeile, Node.js und Webbrowsern verwendet werden. Es ist eine einfache und effektive Möglichkeit, Diagramme und Flussdiagramme zu erstellen, ohne eine separate Anwendung oder Software installieren zu müssen.
 </p>
 </details>
+
+ [Mermaid Live Editor](https://mermaid.live/edit) 
 
 <details><summary>Zusammenfassung</summary>
 <p>
@@ -44,3 +46,5 @@ pie title Projekt "B.Braun Brand Colors"
     "=> darkGrey" : 2
     "=> darkViolet" : 1
 ```
+Die verwendete Syntax kann direkt in GitHub editiert werden und im Preview auf systaktische Fehler kontrolliert werden.  
+**Alternativ:** Den jeweiligen Code mittels des angezeigten Buttons kopieren und in den [Mermaid Live Editor](https://mermaid.live/edit) kopieren.
