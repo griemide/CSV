@@ -1,4 +1,6 @@
-# Mermaid (Mermaid Markup Language - MML)
+# Mermaid 
+
+Mermaid Markup Language (MML)
 
 ## Beschreibung
 
